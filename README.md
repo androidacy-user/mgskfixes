@@ -1,4 +1,4 @@
-# Magisk Fixes
+# Magisk Fixes (Unity) 
 
 _If you like my work please feel free to donate to my [PayPal](https://paypal.me/innonetlife). It would mean a lot to me_
 
