@@ -30,6 +30,12 @@ I highly recommend joining our telegram group [here](https://t.me/inlmagisk)
 
 Join the support group and let me know and I'll add it in
 
+## Compatibility 
+
+Magisk 18.1+ suggested 
+
+
+
 
 ## Credits
 
