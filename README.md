@@ -20,7 +20,7 @@ I highly recommend joining our telegram group [here](https://t.me/inlmagisk)
 
 ## Fix {x} is needed on my device
 
-Join the supp group and let me know and I'll add it in
+Join the support group and let me know and I'll add it in
 
 
 ## Credits
@@ -30,3 +30,11 @@ topjohnwu - For Magisk
 zackptg5 - For unity
 
 linuxandria - That's me! 
+
+### Changelog
+
+_v1.0.0_
+
+- Initial release 
+
+
