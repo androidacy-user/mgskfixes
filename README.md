@@ -1,35 +1,32 @@
-<h1 align="center">Unity (Un)Installer Template</h1>
+# Magisk Fixes
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v4.4-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-August 10, 2019-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+### What's this?
 
-<div align="center">
-  <strong>Unity Installer allows 1 zip to work for multiple devices and root solutions. More details in the 
-    <a href="https://github.com/Zackptg5/Unity/wiki">wiki</a>.
-</div>
+This is a small collection of fixes for Magisk. Primarily targeting Motorola devices 
+or GSIs. These may be useful in other situations
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/Unity">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/Unity-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612">
-      XDA
-    </a>
-  </h3>
-</div>
+Admittedly you could move on to these files into place yourself but why would you?
+You can do it systemlessly
 
-## Compatibility
-- Magisk 18.0 +
-- All other root or rootless solutions (init.d support for boot scripts is required if not using Magisk or SuperSU. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
+If you still want to do it systemful just add `-sysover` to the end of the file name (when flashing in TWRP)
+
+### So you're "fixing" Magisk with Magisk?
+
+Yes! Magisk is by nature modular, making things simpler
+
+## Where do I get support?
+
+I highly recommend joining our telegram group [here](https://t.me/inlmagisk)
+
+### Fix {x} is needed on my dev
+
+Join the supp group and let me know and I'll add it in
+
+
+## Credits
+
+topjohnwu - For Magisk
+
+zackptg5 - For unity
+
+linuxandria - That's me! 
