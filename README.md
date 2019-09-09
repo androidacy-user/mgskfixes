@@ -1,5 +1,7 @@
 # Magisk Fixes
 
+_If you like my work please feel free to donate to my [PayPal](https://paypal.me/innonetlife). It would mean a lot to me_
+
 ## What's this?
 
 This is a small collection of fixes for Magisk. Primarily targeting Motorola devices 
@@ -8,7 +10,13 @@ or GSIs. These may be useful in other situations
 Admittedly you could move on to these files into place yourself but why would you?
 You can do it systemlessly
 
-If you still want to do it systemful just add `-sysover` to the end of the file name (when flashing in TWRP)
+If you still want to do it systemful just add `-sysover` to the end of the file name (when flashing in TWRP). That's the beauty of Unity
+
+## But @topjohnwu and @phhusson say I shouldn't use Magisk on a GSI!!!! 
+
+Yeah, yeah, yeah. Whatever. So you're device doesn't have many ROMs and you turned to GSI (or the stock one doesn't like Magisk). 
+You shouldn't have to give up the great power of Magisk. And we can hardly expect either one of them to try to fix it. Each is a series of hacks so they'll work on as many devices as possible. So I'm going to try to apply a few more to get it to work 
+
 
 ## So you're "fixing" Magisk with Magisk?
 
