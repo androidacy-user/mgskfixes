@@ -15,7 +15,7 @@ If you still want to do it systemful just add `-sysover` to the end of the file 
 ## But @topjohnwu and @phhusson say I shouldn't use Magisk on a GSI!!!! 
 
 Yeah, yeah, yeah. Whatever. So you're device doesn't have many ROMs and you turned to GSI (or the stock one doesn't like Magisk). 
-You shouldn't have to give up the great power of Magisk. And we can hardly expect either one of them to try to fix it. Each is a series of hacks so they'll work on as many devices as possible. So I'm going to try to apply a few more to get it to work 
+You shouldn't have to give up the great power of Magisk. And we can hardly expect either John Wu or phhusson of them to try to fix it. Each of them has to use a series of hacks so they'll work on as many devices as possible. So I'm going to try to apply a few more to get it to work and hopefully bring magisk to the masses (OK fine that's an exaggeration) 
 
 
 ## So you're "fixing" Magisk with Magisk?
